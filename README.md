@@ -26,6 +26,10 @@ Slate replaces the ad-filled stock launcher with a quiet home screen: a clock, a
 - Fire TV running Fire OS 7 or 8 (tested on a Fire TV Edition smart TV, Fire OS 7.7). Newer Fire TV devices that run **Vega OS** cannot sideload apps.
 - A computer with [`adb`](https://developer.android.com/tools/releases/platform-tools) on the same network.
 
+## Download
+
+Grab `slate-x.y.z.apk` from [Releases](https://github.com/doktorigi/slate-launcher/releases/latest) and skip straight to the install steps, or build it yourself:
+
 ## Build
 
 ```sh
