@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_guard_description">Opens Slate when the Fire TV Home button is pressed.</string>
+</resources>
